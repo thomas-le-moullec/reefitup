@@ -1,0 +1,21 @@
+.composer-switch {
+	@include gradient-bg;
+
+	.logo-icon {
+		background-color: transparent;
+	}
+	a.wpb_switch-to-gutenberg,
+	a.wpb_switch-to-composer,
+	a.wpb_switch-to-front-composer {
+		display: inline-block;
+		
+		&,
+		&:visited,
+		&:hover {
+			background: transparent;
+		}
+		&:hover {
+			background-color: rgba(#000, 0.15);
+		}
+	}
+}

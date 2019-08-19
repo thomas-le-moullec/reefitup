@@ -1,0 +1,15 @@
+{
+	"home_page_title": "Homepage - Avantgarde",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Main nav"
+	},
+	"templates": {
+		"header-template": "Main header - Avantgarde",
+		"footer-template": "Main footer - Avantgarde"
+	},
+	"content_plugins": {
+		"ave-core": "Ave Core",
+		"ave-portfolio": "Ave Portfolio"
+	}
+}

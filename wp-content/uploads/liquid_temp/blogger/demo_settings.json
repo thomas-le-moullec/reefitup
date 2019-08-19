@@ -1,0 +1,15 @@
+{
+	"home_page_title": "Blogger",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Header - Menu trigger - Boxed",
+		"footer-template": "Footer - Portfolio - Dark - Alt"
+	},
+	"content_plugins": {
+		"ave-core": "Ave Core",
+		"ave-portfolio": "Ave Portfolio"
+	}
+}

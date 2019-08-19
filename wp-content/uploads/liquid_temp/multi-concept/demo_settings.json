@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Multiconcept Homepage",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Multiconcept Main Header",
+	},
+	"content_plugins": {
+		"ave-core": "Ave Core",
+		"ave-portfolio": "Ave Portfolio"
+	}
+}

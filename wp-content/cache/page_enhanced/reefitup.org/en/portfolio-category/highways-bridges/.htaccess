@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+    Header unset Link
+    <FilesMatch "\.(html|html_gzip|html_br)$">
+    Header add Link '<https://d4him7q08tkoi.cloudfront.net/wp-content/cache/minify/ee924.default.include.d9d0eb.css>; rel=preload; as=style'
+    </FilesMatch>
+</IfModule>

@@ -1,0 +1,15 @@
+{
+	"home_page_title": "Voguish Homepage",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Primary"
+	},
+	"templates": {
+		"header-template": "Voguish Main Header",
+		"footer-template": "Voguish Main Footer"
+	},
+	"content_plugins": {
+		"ave-core": "Ave Core",
+		"ave-portfolio": "Ave Portfolio"
+	}
+}
